@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "mobile",
+        "amount": 45000.0,
+        "category": "Electronics",
+        "date": "2025-10-13"
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "amount": 149.0,
+        "category": "food",
+        "date": "2025-10-13"
+    },
+    {
+        "id": 3,
+        "name": "pizza",
+        "amount": 349.0,
+        "category": "food",
+        "date": "2025-10-13"
+    },
+    {
+        "id": 4,
+        "name": "milk",
+        "amount": 45.0,
+        "category": "food",
+        "date": "2026-03-19"
+    }
+]
